@@ -1,6 +1,6 @@
 format = """
 [ ネウィン ](fg:#f5e0dc)\
-[❱](fg:#f5e0dc)\
+[❱](fg:#ff22ff)\
 $directory\
 $git_branch\
 $git_status\

@@ -2,8 +2,10 @@ local M = {}
 M.general = {
   n = {
     ["<leader>h"] = { ":noh <CR>", "clear highlights" },
+    ["<leader>tt"] = { ":TroubleToggle <CR>", "Toggle trouble diagnostics" },
   },
 }
+
 M.tabufline = {
   n = {
     ["<S-l>"] = {
